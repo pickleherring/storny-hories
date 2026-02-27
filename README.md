@@ -5,4 +5,3 @@ A stoat bot for embedding links to stories. Will watch for messages containing v
 Currently supports:
 
 * [Hentai Foundry](https://www.hentai-foundry.com/)
-* [Literotica](https://www.literotica.com/)
